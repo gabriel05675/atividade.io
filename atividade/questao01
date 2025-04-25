@@ -1,0 +1,15 @@
+let n1 = 50
+let n2 = 60
+let n3 =70
+let n4 =50
+let media=(n1 + n2 + n3 + n4)/4;
+
+if(media >=60){
+
+    console.log("esta aprovado")
+}
+else if (media >= 40 && media < 60){
+    console.log("o aluno estar recuperaçao, a media eh", media)
+}else{
+    console.log("o aluno esta reprovado a media eh", media)
+}
