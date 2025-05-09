@@ -1,7 +1,7 @@
-let n1 = 50
-let n2 = 60
-let n3 =70
-let n4 =50
+let n1 = 100
+let n2 = 80
+let n3 =60
+let n4 =0
 let media=(n1 + n2 + n3 + n4)/4;
 
 if(media >=60){
