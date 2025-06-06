@@ -5,7 +5,8 @@ function anonovo(minutos) {
     if(i == 5);
   
     }
-     console.log("feliz ano novo");
+     console.log("feliz ano novo",i);
+
 }
 
 
